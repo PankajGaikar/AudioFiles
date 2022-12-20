@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+forest-ambience.wav0.m4a
+#EXTINF:6.989200,
+forest-ambience.wav1.m4a
+#EXTINF:7.012433,
+forest-ambience.wav2.m4a
+#EXTINF:6.989200,
+forest-ambience.wav3.m4a
+#EXTINF:6.019956,
+forest-ambience.wav4.m4a
+#EXT-X-ENDLIST

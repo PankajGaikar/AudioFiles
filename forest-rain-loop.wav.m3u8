@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+forest-rain-loop.wav0.m4a
+#EXTINF:6.989200,
+forest-rain-loop.wav1.m4a
+#EXTINF:7.012433,
+forest-rain-loop.wav2.m4a
+#EXTINF:3.756556,
+forest-rain-loop.wav3.m4a
+#EXT-X-ENDLIST

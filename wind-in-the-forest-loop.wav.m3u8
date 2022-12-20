@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+wind-in-the-forest-loop.wav0.m4a
+#EXTINF:5.539767,
+wind-in-the-forest-loop.wav1.m4a
+#EXT-X-ENDLIST
