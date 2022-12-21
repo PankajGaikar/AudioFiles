@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+summer-crickets-loop.wav0.m4a
+#EXTINF:6.989200,
+summer-crickets-loop.wav1.m4a
+#EXTINF:4.854400,
+summer-crickets-loop.wav2.m4a
+#EXT-X-ENDLIST
