@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+people-bathing-in-the-sea-ambience.wav0.m4a
+#EXTINF:6.989200,
+people-bathing-in-the-sea-ambience.wav1.m4a
+#EXTINF:1.360178,
+people-bathing-in-the-sea-ambience.wav2.m4a
+#EXT-X-ENDLIST
