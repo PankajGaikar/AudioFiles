@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+wind-in-the-top-of-the-mountain.wav0.m4a
+#EXTINF:6.989200,
+wind-in-the-top-of-the-mountain.wav1.m4a
+#EXTINF:7.012433,
+wind-in-the-top-of-the-mountain.wav2.m4a
+#EXTINF:6.989200,
+wind-in-the-top-of-the-mountain.wav3.m4a
+#EXTINF:3.822956,
+wind-in-the-top-of-the-mountain.wav4.m4a
+#EXT-X-ENDLIST

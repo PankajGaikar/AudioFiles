@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+abstract-wind-howl-interior.wav0.m4a
+#EXTINF:6.989200,
+abstract-wind-howl-interior.wav1.m4a
+#EXTINF:7.012433,
+abstract-wind-howl-interior.wav2.m4a
+#EXTINF:6.989200,
+abstract-wind-howl-interior.wav3.m4a
+#EXTINF:1.032944,
+abstract-wind-howl-interior.wav4.m4a
+#EXT-X-ENDLIST
