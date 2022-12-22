@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+light-rain-on-pavement.wav0.m4a
+#EXTINF:6.989200,
+light-rain-on-pavement.wav1.m4a
+#EXTINF:7.012433,
+light-rain-on-pavement.wav2.m4a
+#EXTINF:5.633622,
+light-rain-on-pavement.wav3.m4a
+#EXT-X-ENDLIST
