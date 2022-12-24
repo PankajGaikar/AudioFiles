@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.012433,
+big-waterfall-loop.wav0.m4a
+#EXTINF:6.989200,
+big-waterfall-loop.wav1.m4a
+#EXTINF:7.012433,
+big-waterfall-loop.wav2.m4a
+#EXTINF:5.818511,
+big-waterfall-loop.wav3.m4a
+#EXT-X-ENDLIST
