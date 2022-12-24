@@ -9,6 +9,6 @@
 for fileName in *; do
     if [[ $fileName =~ .*\.(wav$) ]]; then
         echo "The extension of '$fileName' matches .wav";
-        ffmpeg -y -i "$fileName" -c:a libmp3lame -q:a 0 -map 0:0 -f segment -segment_time 10 -segment_list segments.m3u8 -segment_format mpegts "$fileName%d.m4a"
+        ffmpeg -y -i "$fileName" -c:a aac -b:a 128k -muxdelay 0 -f segment -sc_threshold 0 -segment_time 7 -segment_list "$fileName.m3u8" -segment_format mpegts "$fileName%d.m4a"
     fi
 done
